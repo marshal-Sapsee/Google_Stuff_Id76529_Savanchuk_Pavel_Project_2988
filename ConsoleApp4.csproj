@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Algorithms">
+      <HintPath>..\..\..\Desktop\Lab8\Lab8\bin\Debug\net5.0\Algorithms.dll</HintPath>
+    </Reference>
+    <Reference Include="DataStructures">
+      <HintPath>..\..\..\Desktop\Lab8\Lab8\bin\Debug\net5.0\DataStructures.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
